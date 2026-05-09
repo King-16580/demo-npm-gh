@@ -1,0 +1,10 @@
+{
+  "name": "@king/demo-npm-gh",
+  "version": "1.0.0",
+  "description": "Demo: Node.js wrapper calling Python script from GitHub",
+  "main": "index.js",
+  "scripts": {
+    "hello": "node index.js",
+    "start": "node index.js"
+  }
+}
